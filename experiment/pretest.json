@@ -2,35 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which one is not used for plasmid curing?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "EtBr",
+        "b": "SDS",
+        "c": "Mitomycin C",
+        "d": "EDTA"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Bacteria possess extra chromosomal DNA, called",
+      "answers": {
+        "a": "Cosmids",
+        "b": "Plasmids",
+        "c": "Phagemids",
+        "d": "Bacteriophage"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Etbr is an",
+      "answers": {
+        "a": "Intercalating agent",
+        "b": "Chelating agent",
+        "c": "Inducer",
+        "d": "Oxidizing agent"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is a Mobile Genetic Element?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cosmid",
+        "b": "Plasmid",
+        "c": "Phagemid",
+        "d": "DNA"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the concentration of Acridine orange used for curing plasmid from Staphylococcus aureus?",
+      "answers": {
+        "a": "10mg/ml",
+        "b": "1mg/ml",
+        "c": "0.1mg/ml",
+        "d": "0.01mg/ml"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
