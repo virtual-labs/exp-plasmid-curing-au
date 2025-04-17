@@ -1,31 +1,31 @@
 ### Materials required
  
 
-Laminar air flow
-
-Petri plate
-
-Bunsen burner
-
-Test tube rack
-
-Loop
-
-Micropipette
-
-Incubator
-
-Shaker incubator
-
-Swabs
-
-Penicillin discs bottle
-
-Ciprofloxacin discs bottle
-
-Forceps
-
-Marker pen
+   Laminar air flow
+   
+   Petri plate
+   
+   Bunsen burner
+   
+   Test tube rack
+   
+   Loop
+   
+   Micropipette
+   
+   Incubator
+   
+   Shaker incubator
+   
+   Swabs
+   
+   Penicillin discs bottle
+   
+   Ciprofloxacin discs bottle
+   
+   Forceps
+   
+   Marker pen
  
 
  ### Reagents required
