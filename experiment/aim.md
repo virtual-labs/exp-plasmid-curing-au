@@ -4,3 +4,4 @@ Plasmids are extrachromasomally replicating molecules of DNA present in bacteria
 
  1. To obtain plasmid cured bacteria.
  2. To determine the effect of Acridine orange as plasmid curing agent.
+    

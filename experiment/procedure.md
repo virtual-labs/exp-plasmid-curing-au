@@ -1,31 +1,31 @@
 ### Materials required
  
 
-Laminar air flow
-
-Petri plate
-
-Bunsen burner
-
-Test tube rack
-
-Loop
-
-Micropipette
-
-Incubator
-
-Shaker incubator
-
-Swabs
-
-Penicillin discs bottle
-
-Ciprofloxacin discs bottle
-
-Forceps
-
-Marker pen
+   Laminar air flow
+   
+   Petri plate
+   
+   Bunsen burner
+   
+   Test tube rack
+   
+   Loop
+   
+   Micropipette
+   
+   Incubator
+   
+   Shaker incubator
+   
+   Swabs
+   
+   Penicillin discs bottle
+   
+   Ciprofloxacin discs bottle
+   
+   Forceps
+   
+   Marker pen
  
 
  ### Reagents required
@@ -74,11 +74,11 @@ In an actual laboratory setting, there are certain important steps that are not 
 
 3. Always label all tubes and plates with:
 
-               a. Name of the organism
+   a. Name of the organism
 
-               b. Name of the media
+   b. Name of the media
 
-               c. The date
+   c. The date
  
 4. Make sure that all the media used are sterilized.
 
